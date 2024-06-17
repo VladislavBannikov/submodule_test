@@ -1,3 +1,0 @@
-[submodule "pip_package_sample"]
-	path = pip_package_sample
-	url = git@github.com:VladislavBannikov/pip_package_sample.git
